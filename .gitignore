@@ -11,10 +11,10 @@
 .svn/
 
 # IntelliJ related
-*.iml
-*.ipr
+# https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 *.iws
-.idea/
+**/.idea/usage.statistics.xml
+**/.idea/tasks.xml
 
 # Visual Studio Code related
 .vscode/
